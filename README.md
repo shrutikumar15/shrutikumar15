@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 I'm Shruti - A third year Information Technology Student at Thadomal Shahani College
+👋 I'm Shruti - A fourth year Information Technology Student at Thadomal Shahani College
 and an aspiring Software Engineer.
 
 ###  📫 How to reach me 
