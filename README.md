@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 👋 I'm Shruti - A fourth year Information Technology Student at Thadomal Shahani College
 and an aspiring Software Engineer.
 
-![Shruti Kumar's github stats](https://github-readme-stats.vercel.app/api?username=shrutikumar15&show_icons=true&count_private=true&hide=stars,issues)
 
 ###  📫 How to reach me 
 
